@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+77Bet - 77betaz.com - địa chỉ uy tín chuyên phát triển Casino Online
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Nhà cái `77Bet <https://77betaz.com/>`_ là địa chỉ uy tín chuyên phát triển và cung cấp những dịch vụ cá cược trực tuyến từ Casino online, game bài đến cá độ bóng đá, đá gà, lô đề. Hiện tại, 77 Bet được đặt biệt danh là siêu nhà cái top 1 châu Á.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 20-22 Đường số 15, Bình Trị Đông B, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-   This project is under active development.
+Phone: 0309848877. 
 
-Contents
---------
+Email: info@77betaz.com.
 
-.. toctree::
+Website: https://77betaz.com/
 
-   usage
-   api
+Author: https://77betaz.com/ceo-sup-vo/
+
+#77bet #77betaz #77betazcom #77betaz_com #nhacai77bet #77betcasino
